@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-keychain",
+  "version": "1.0.0",
+  "description": "Plugin keychain",
+  "cordova": {
+    "id": "cordova-plugin-keychain",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ]
+}
